@@ -1,6 +1,6 @@
 ---
 title: "Labor Force Participation in Indiana"
-author: Kent Sellers and Brittany Williams
+author: Kent Sellers
 output: html_document
 ---
 
